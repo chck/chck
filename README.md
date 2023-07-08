@@ -6,7 +6,7 @@
 </p>
 
 <details>
-  <summary>Read more</summary>
+  <summary><b>Read more</b></summary>
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2055%20mins-blue)
 
