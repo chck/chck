@@ -7,7 +7,10 @@
 
 <details>
   <summary><b>Read more</b></summary>
+  <br>
+
   <!--START_SECTION:waka-->
+
 **🐱 My GitHub Data** 
 
 > 📦 66.7 kB Used in GitHub's Storage 
