@@ -6,24 +6,24 @@
 </p>
 
 #### Pinned
-<div style=“display:grid; grid-template-columns:repeat(3, 1fr); grid-template-rows:repeat(3, 100px); gap:10px;”>
+<div style=“display:grid; grid-template-columns:repeat(2, 1fr); grid-template-rows:repeat(3, 100px); gap:10px;”>
     <a href="https://github.com/chck/AugLy-jp">
-      <img alt="chck/AugLy-jp" align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=AugLy-jp&theme=buefy" />
+      <img alt="chck/AugLy-jp" align="center" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=AugLy-jp&theme=buefy" />
     </a>
     <a href="https://github.com/chck/nostalgia">
-      <img alt="chck/nostalgia" align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=nostalgia&theme=buefy" />
+      <img alt="chck/nostalgia" align="center" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=nostalgia&theme=buefy" />
     </a>
     <a href="https://github.com/chck/synr">
-      <img alt="chck/synr" align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=synr&theme=buefy" />
+      <img alt="chck/synr" align="center" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=synr&theme=buefy" />
     </a>
     <a href="https://github.com/chck/dotfiles">
-      <img alt="chck/dotfiles" align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=dotfiles&theme=buefy" />
+      <img alt="chck/dotfiles" align="center" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=dotfiles&theme=buefy" />
     </a>
     <a href="https://github.com/chck/sibyl">
-      <img alt="chck/sibyl" align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=sibyl&theme=buefy" />
+      <img alt="chck/sibyl" align="center" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=sibyl&theme=buefy" />
     </a>
     <a href="https://github.com/chck/mlflow-k8s">
-      <img alt="chck/mlflow-k8s" align="center" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=mlflow-k8s&theme=buefy" />
+      <img alt="chck/mlflow-k8s" align="center" width="50%" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=chck&repo=mlflow-k8s&theme=buefy" />
     </a>
 </div>
 
