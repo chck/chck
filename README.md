@@ -1,4 +1,8 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=chck&color=blueviolet)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chck&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=buefy" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=chck&count_private=true&show_icons=true&show_icons=true&theme=buefy" />
+</p>
 
 <!--
 **chck/chck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
