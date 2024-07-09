@@ -49,14 +49,10 @@ Sunday                   560 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     57 mins             █████████░░░░░░░░░░░░░░░░   34.86 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-Makefile                 33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   2 hrs 44 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +72,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-07-08 01:40 UTC
+ Last Updated on 2024-07-09 01:39 UTC
 <!--END_SECTION:waka-->
 </details>
 
