@@ -16,8 +16,6 @@
 
 > 📦 83.0 kB Used in GitHub's Storage 
  > 
-> 🏆 492 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 133 Public Repositories 
@@ -49,14 +47,10 @@ Sunday                   568 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Bash                     37 mins             ███████████████████░░░░░░   74.75 % 
-YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-TOML                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-SQL                      3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -76,7 +70,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2024-09-01 02:00 UTC
+ Last Updated on 2024-09-02 01:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
