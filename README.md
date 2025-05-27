@@ -3,7 +3,7 @@
 [![speakerdeck](https://img.shields.io/badge/Speaker_Deck-chck-8a2be2?style=flat-square&logo=speaker-deck)](https://speakerdeck.com/chck)
 [![linkedin](https://img.shields.io/badge/LinkedIn-chck-8a2be2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chck/)
 
-[![wakatime stats](https://github-readme-stats-nine-umber-51.vercel.app/api/wakatime?username=chck&layout=compact&count_private=true&hide_title=true&hide=Other&theme=buefy&langs_count=20)](https://wakatime.com/@chck?rank=me)
+[![wakatime stats](https://github-readme-stats-nine-umber-51.vercel.app/api/wakatime?username=chck&layout=compact&count_private=true&hide_title=true&hide=Other&theme=buefy&langs_count=14)](https://wakatime.com/@chck?rank=me)
 
 [![github stats](https://github-readme-stats-nine-umber-51.vercel.app/api?username=chck&count_private=true&show_icons=true&hide_title=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
