@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/ddf27f94-292a-4343-b7eb-1143a4c6cf87.svg)](https://wakatime.com/@ddf27f94-292a-4343-b7eb-1143a4c6cf87)
 ![views](https://komarev.com/ghpvc/?username=chck&color=blueviolet)
 [![speakerdeck](https://img.shields.io/badge/Speaker_Deck-chck-8a2be2?style=flat-square&logo=speaker-deck)](https://speakerdeck.com/chck)
 [![linkedin](https://img.shields.io/badge/LinkedIn-chck-8a2be2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/chck/)
