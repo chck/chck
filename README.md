@@ -49,17 +49,17 @@ Sunday                   1420 commits        ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 1 min        ████████████░░░░░░░░░░░░░   48.56 % 
-Markdown                 10 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   21.95 % 
-TOML                     5 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-YAML                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-TypeScript               1 hr 33 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Other                    22 hrs 46 mins      ████████████░░░░░░░░░░░░░   49.72 % 
+Markdown                 10 hrs 47 mins      ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+TOML                     5 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+TypeScript               1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+YAML                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 
 🔥 Editors: 
-Chrome                   30 hrs 31 mins      ███████████████░░░░░░░░░░   61.69 % 
-Claude Code              18 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   37.77 % 
-Antigravity IDE          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-Neovim                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Chrome                   29 hrs 14 mins      ████████████████░░░░░░░░░   63.86 % 
+Claude Code              16 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.62 % 
+Antigravity IDE          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Neovim                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in Python** 
@@ -79,7 +79,7 @@ TypeScript               8 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-07-25 03:41 UTC
+ Last Updated on 2026-07-26 03:54 UTC
 <!--END_SECTION:waka-->
 </details>
 
