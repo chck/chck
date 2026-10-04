@@ -10,10 +10,12 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: anmol098/waka-readme-stats@master
+      # Fork adds EXTRA_GH_TOKENS (per-owner tokens); switch back to upstream once it is merged there.
+      - uses: chck/waka-readme-stats@42c44947025c8dc378620d13edeae626e3afca7d
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          EXTRA_GH_TOKENS: ${{ secrets.EXTRA_GH_TOKENS }}
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_PROFILE_VIEWS: "False"
