@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Fork adds EXTRA_GH_TOKENS (per-owner tokens); switch back to upstream once it is merged there.
-      - uses: chck/waka-readme-stats@dd9280b27fc17ec1ce04590a3c595ffc8cfea3a9
+      - uses: chck/waka-readme-stats@a155c3becd2452700967beaa96f598928f866871
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
