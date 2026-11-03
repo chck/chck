@@ -11,10 +11,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # Fork adds EXTRA_GH_TOKENS (per-owner tokens); switch back to upstream once it is merged there.
-      - uses: chck/waka-readme-stats@42c44947025c8dc378620d13edeae626e3afca7d
+      - uses: chck/waka-readme-stats@3844330e39d2e49ad6e5c2039d74401ed56e91f9
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # Defaults to the read-only workflow token; push with the PAT instead.
+          PUSH_TOKEN: ${{ secrets.GH_TOKEN }}
           EXTRA_GH_TOKENS: ${{ secrets.EXTRA_GH_TOKENS }}
           UPDATED_DATE_FORMAT: "%Y-%m-%d %H:%M"
           SHOW_TOTAL_CODE_TIME: "False"
