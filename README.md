@@ -12,13 +12,13 @@
   <br>
 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-429%20hrs%2047%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-433%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,626 Contributions in the Year 2026
+> 🏆 3,638 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,43 +51,43 @@ Sunday                   2390 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 22 mins      █████████████████████░░░░   85.65 % 
-Markdown                 1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
-Ruby                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-TSV                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-Python                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+Other                    29 hrs 47 mins      █████████████████████░░░░   84.59 % 
+Markdown                 3 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+Ruby                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TSV                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 55 mins      ██████████████░░░░░░░░░░░   54.69 % 
-Claude Code              10 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   37.89 % 
-Codex CLI                1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Obsidian                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Zed                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Chrome                   22 hrs 11 mins      ████████████████░░░░░░░░░   63.00 % 
+Claude Code              11 hrs 25 mins      ████████░░░░░░░░░░░░░░░░░   32.43 % 
+Codex CLI                1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Obsidian                 27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 3 mins (44.2%)
+⏱ AI Coding Time: 12 hrs 45 mins (36.21%)
 
-✍️ 4,394 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,005 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 11,466,473 Input Tokens, 1,537,970 Output Tokens
+🔤 9,480,838 Input Tokens, 1,239,392 Output Tokens
 
-💵 $82.20 Estimated AI Cost This Week
+💵 $66.72 Estimated AI Cost This Week
 
-🧠 386 AI Sessions, 1971 AI Prompts
+🧠 368 AI Sessions, 1604 AI Prompts
 
-GPT                      3,778 lines         █████████████████████░░░░   85.88 % 
-Sonnet                   621 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Sonnet                   732 lines           ██████████████████░░░░░░░   71.48 % 
+GPT                      292 lines           ███████░░░░░░░░░░░░░░░░░░   28.52 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 4,848 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.23% of changed lines were hand-edited
+📚 Verbose Prompter — average 4,780 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-06 06:31 UTC
+ Last Updated on 2026-11-07 05:58 UTC
 <!--END_SECTION:waka-->
 </details>
 
