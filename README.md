@@ -18,8 +18,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,638 Contributions in the Year 2026
- > 
 > 💼 Opted to Hire
  > 
 > 📜 136 Public Repositories 
@@ -29,21 +27,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4110 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-🌆 Daytime                5279 commits        ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-🌃 Evening                4930 commits        ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
-🌙 Night                  5381 commits        ███████░░░░░░░░░░░░░░░░░░   27.31 % 
+🌞 Morning                4018 commits        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
+🌆 Daytime                5193 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
+🌃 Evening                4900 commits        ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌙 Night                  5304 commits        ███████░░░░░░░░░░░░░░░░░░   27.32 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2698 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Tuesday                  3157 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Wednesday                3327 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-Thursday                 3381 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Friday                   2555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
-Saturday                 2192 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Sunday                   2390 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+Monday                   2646 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Tuesday                  3130 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
+Wednesday                3299 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Thursday                 3343 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Friday                   2494 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Saturday                 2149 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Sunday                   2354 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
 ```
 
 
@@ -51,24 +49,24 @@ Sunday                   2390 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    27 hrs 20 mins      █████████████████████░░░░   82.28 % 
-Markdown                 3 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Ruby                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-TSV                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    30 hrs 8 mins       █████████████████████░░░░   83.74 % 
+Markdown                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+Ruby                     1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+TSV                      41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Text                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Chrome                   21 hrs 1 min        ████████████████░░░░░░░░░   63.28 % 
-Claude Code              10 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   31.22 % 
-Codex CLI                59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-Obsidian                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Chrome                   23 hrs 47 mins      █████████████████░░░░░░░░   66.10 % 
+Claude Code              10 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+Codex CLI                59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+Obsidian                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Neovim                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 23 mins (34.28%)
+⏱ AI Coding Time: 11 hrs 23 mins (31.65%)
 
 ✍️ 1,098 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -107,7 +105,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-08 05:59 UTC
+ Last Updated on 2026-11-09 06:08 UTC
 <!--END_SECTION:waka-->
 </details>
 
