@@ -18,7 +18,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,704 Contributions in the Year 2026
+> 🏆 3,707 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -29,21 +29,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4166 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
-🌆 Daytime                5311 commits        ███████░░░░░░░░░░░░░░░░░░   26.81 % 
-🌃 Evening                4922 commits        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-🌙 Night                  5414 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌞 Morning                4166 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+🌆 Daytime                5293 commits        ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+🌃 Evening                4923 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌙 Night                  5414 commits        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2732 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Tuesday                  3160 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-Wednesday                3327 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-Thursday                 3377 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Friday                   2585 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Saturday                 2210 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Sunday                   2422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Monday                   2732 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Tuesday                  3160 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Wednesday                3317 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Thursday                 3370 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Friday                   2585 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Saturday                 2210 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Sunday                   2422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 ```
 
 
@@ -51,24 +51,24 @@ Sunday                   2422 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 19 mins      █████████████████░░░░░░░░   69.27 % 
-Markdown                 8 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-TeX                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Ruby                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-LaTeX                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Other                    20 hrs 19 mins      █████████████████░░░░░░░░   66.26 % 
+Markdown                 8 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+TeX                      1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Ruby                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+LaTeX                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-Chrome                   16 hrs 19 mins      ████████████░░░░░░░░░░░░░   48.46 % 
-Claude Code              14 hrs 11 mins      ███████████░░░░░░░░░░░░░░   42.12 % 
-Codex CLI                1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Zed                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Claude Code              14 hrs 11 mins      ████████████░░░░░░░░░░░░░   46.25 % 
+Chrome                   13 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.41 % 
+Codex CLI                1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Zed                      1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Obsidian                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 46 mins (49.79%)
+⏱ AI Coding Time: 16 hrs 46 mins (54.67%)
 
 ✍️ 1,401 lines written by AI, 110 lines written by hand (92.72% AI-written)
 
@@ -94,11 +94,11 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Python** 
 
 ```text
-Python                   44 repos            █████████░░░░░░░░░░░░░░░░   36.97 % 
-Jupyter Notebook         19 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-Dockerfile               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Python                   44 repos            █████████░░░░░░░░░░░░░░░░   37.29 % 
+Jupyter Notebook         18 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Dockerfile               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+HCL                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 ```
 
 
@@ -108,7 +108,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-15 06:17 UTC
+ Last Updated on 2026-11-16 06:20 UTC
 <!--END_SECTION:waka-->
 </details>
 
