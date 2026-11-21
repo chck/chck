@@ -12,13 +12,13 @@
   <br>
 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-460%20hrs%2051%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,759 Contributions in the Year 2026
+> 🏆 3,762 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,43 +51,43 @@ Sunday                   2442 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 22 mins      █████████████████░░░░░░░░   69.05 % 
-Markdown                 6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Ruby                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-LaTeX                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+Other                    20 hrs 54 mins      █████████████████░░░░░░░░   68.55 % 
+Markdown                 6 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
+TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 49 mins      ██████████████░░░░░░░░░░░   57.58 % 
-Claude Code              10 hrs 42 mins      █████████░░░░░░░░░░░░░░░░   34.59 % 
-Codex CLI                1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-Zed                      36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-Obsidian                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Chrome                   18 hrs 23 mins      ███████████████░░░░░░░░░░   60.27 % 
+Claude Code              8 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.14 % 
+Codex CLI                3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+Obsidian                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Zed                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 15 mins (39.63%)
+⏱ AI Coding Time: 11 hrs 39 mins (38.23%)
 
-✍️ 1,054 lines written by AI, 187 lines written by hand (84.93% AI-written)
+✍️ 1,226 lines written by AI, 167 lines written by hand (88.01% AI-written)
 
-🔤 6,087,596 Input Tokens, 873,454 Output Tokens
+🔤 7,064,453 Input Tokens, 971,274 Output Tokens
 
-💵 $52.56 Estimated AI Cost This Week
+💵 $65.23 Estimated AI Cost This Week
 
-🧠 109 AI Sessions, 451 AI Prompts
+🧠 157 AI Sessions, 477 AI Prompts
 
-Sonnet                   1,135 lines         ██████████████████████░░░   89.02 % 
-GPT                      135 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-Gemini                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Sonnet                   991 lines           █████████████████░░░░░░░░   69.40 % 
+GPT                      432 lines           ████████░░░░░░░░░░░░░░░░░   30.25 % 
+Gemini                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 84.93% of written lines came from AI
-📚 Verbose Prompter — average 4,384 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 12.89% of changed lines were hand-edited
+🤖 AI-Driven — 88.01% of written lines came from AI
+📚 Verbose Prompter — average 6,834 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 10.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -107,7 +107,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-20 07:12 UTC
+ Last Updated on 2026-11-21 07:05 UTC
 <!--END_SECTION:waka-->
 </details>
 
