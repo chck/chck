@@ -12,13 +12,13 @@
   <br>
 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-470%20hrs%2024%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-473%20hrs%2019%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,818 Contributions in the Year 2026
+> 🏆 3,819 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -51,44 +51,44 @@ Sunday                   2445 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    24 hrs 49 mins      █████████████████░░░░░░░░   68.65 % 
-Markdown                 5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-Rust                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-C                        37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    23 hrs 5 mins       ████████████████░░░░░░░░░   64.27 % 
+Markdown                 6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Rust                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 31 mins      ██████████████░░░░░░░░░░░   54.00 % 
-Claude Code              11 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.95 % 
-Codex CLI                3 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Obsidian                 35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-Opencode Cli             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Chrome                   18 hrs 25 mins      █████████████░░░░░░░░░░░░   51.30 % 
+Claude Code              12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   34.99 % 
+Codex CLI                3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Obsidian                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+Opencode Cli             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 6 mins (44.52%)
+⏱ AI Coding Time: 17 hrs 4 mins (47.52%)
 
-✍️ 2,898 lines written by AI, 4 lines written by hand (99.86% AI-written)
+✍️ 3,882 lines written by AI, 4 lines written by hand (99.9% AI-written)
 
-🔤 10,536,327 Input Tokens, 1,354,977 Output Tokens
+🔤 11,118,063 Input Tokens, 1,449,657 Output Tokens
 
-💵 $90.13 Estimated AI Cost This Week
+💵 $99.85 Estimated AI Cost This Week
 
-🧠 297 AI Sessions, 935 AI Prompts
+🧠 301 AI Sessions, 993 AI Prompts
 
-Sonnet                   1,977 lines         ████████████████░░░░░░░░░   63.10 % 
-GPT                      1,151 lines         █████████░░░░░░░░░░░░░░░░   36.74 % 
-Gemini                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Sonnet                   2,266 lines         ██████████████░░░░░░░░░░░   55.01 % 
+GPT                      1,848 lines         ███████████░░░░░░░░░░░░░░   44.87 % 
+Gemini                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📚 Verbose Prompter — average 5,725 characters per prompt
+🤖 AI-Driven — 99.9% of written lines came from AI
+📚 Verbose Prompter — average 5,257 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.13% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-25 08:38 UTC
+ Last Updated on 2026-11-26 08:28 UTC
 <!--END_SECTION:waka-->
 </details>
 
