@@ -12,38 +12,38 @@
   <br>
 
   <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-473%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-474%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,819 Contributions in the Year 2026
+> 🏆 3,824 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 136 Public Repositories 
+> 📜 137 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4232 commits        █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-🌆 Daytime                5366 commits        ███████░░░░░░░░░░░░░░░░░░   26.75 % 
-🌃 Evening                4980 commits        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-🌙 Night                  5483 commits        ███████░░░░░░░░░░░░░░░░░░   27.33 % 
+🌞 Morning                4297 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+🌆 Daytime                5436 commits        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
+🌃 Evening                5034 commits        ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+🌙 Night                  5546 commits        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   2754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Tuesday                  3202 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
-Wednesday                3376 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Thursday                 3413 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-Friday                   2625 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Saturday                 2246 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Sunday                   2445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Monday                   2774 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  3239 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
+Wednesday                3431 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+Thursday                 3456 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+Friday                   2666 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Saturday                 2282 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Sunday                   2465 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
 ```
 
 
@@ -51,44 +51,44 @@ Sunday                   2445 commits        ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 5 mins       ████████████████░░░░░░░░░   64.27 % 
-Markdown                 6 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
-TeX                      1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-HTML                     1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Rust                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Other                    20 hrs 11 mins      ████████████████░░░░░░░░░   64.97 % 
+Markdown                 6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+HTML                     1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Rust                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+C                        37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 25 mins      █████████████░░░░░░░░░░░░   51.30 % 
-Claude Code              12 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   34.99 % 
-Codex CLI                3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Obsidian                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-Opencode Cli             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Chrome                   14 hrs              ███████████░░░░░░░░░░░░░░   45.08 % 
+Claude Code              12 hrs 2 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
+Codex CLI                4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+Obsidian                 28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Opencode Cli             11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 4 mins (47.52%)
+⏱ AI Coding Time: 16 hrs 39 mins (53.61%)
 
-✍️ 3,882 lines written by AI, 4 lines written by hand (99.9% AI-written)
+✍️ 3,291 lines written by AI, 4 lines written by hand (99.88% AI-written)
 
-🔤 11,118,063 Input Tokens, 1,449,657 Output Tokens
+🔤 11,475,879 Input Tokens, 1,451,681 Output Tokens
 
-💵 $99.85 Estimated AI Cost This Week
+💵 $97.81 Estimated AI Cost This Week
 
-🧠 301 AI Sessions, 993 AI Prompts
+🧠 319 AI Sessions, 1090 AI Prompts
 
-Sonnet                   2,266 lines         ██████████████░░░░░░░░░░░   55.01 % 
-GPT                      1,848 lines         ███████████░░░░░░░░░░░░░░   44.87 % 
-Gemini                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GPT                      1,848 lines         ██████████████░░░░░░░░░░░   55.36 % 
+Sonnet                   1,485 lines         ███████████░░░░░░░░░░░░░░   44.49 % 
+Gemini                   5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.9% of written lines came from AI
-📚 Verbose Prompter — average 5,257 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📚 Verbose Prompter — average 5,178 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🚀 High AI Trust — 0.12% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -108,7 +108,7 @@ Astro                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/chck/chck/main/assets/bar_graph.png)
 
 
- Last Updated on 2026-11-26 08:28 UTC
+ Last Updated on 2026-11-27 08:31 UTC
 <!--END_SECTION:waka-->
 </details>
 
